@@ -9,7 +9,7 @@ un set de functii care sa interactioneze cu baza de date.
 2. O functie care sa retuneze cate persoane au cetatenie americana sau nu
 3. O functie care sa returneze top 10 cel mai mare scor filantropic.
 4. Site.ul suport este: https://www.forbes.com/billionaires/.
-5. 
+
 INPUT: forbes.py
 
 OUTPUT: un crawler care insereaza in baza de date informatii.
